@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Style_Project</string>
+    <string name="h1">Clock X</string>
+    <string name="button">Сменить тему</string>
+    <string name="model1">Rolex 2007 Black</string>
+    <string name="model2">Smatch White Z</string>
+    <string name="button2">Найти часы</string>
+    <string name="hide">Введите модель часов</string>
+    <string name="info">Welcome to our unique watch store, where time comes alive with extraordinary elegance and beauty! Here you will find a wide range of watches, from classic models to modern technological wonders.</string>
+</resources>

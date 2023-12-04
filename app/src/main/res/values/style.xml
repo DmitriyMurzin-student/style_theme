@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="clock_block">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">110dp</item>
+        <item name="android:layout_marginTop">15dp</item>
+        <item name="android:layout_marginHorizontal">@dimen/horizontal_margin</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+
+    <style name="clock_img">
+        <item name="android:layout_width">200dp</item>
+        <item name="android:layout_height">110dp</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:scaleType">fitXY</item>
+    </style>
+
+    <style name="clock_name">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginTop">50dp</item>
+    </style>
+</resources>
